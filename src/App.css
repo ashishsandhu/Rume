@@ -1,0 +1,23 @@
+/* Add any custom styles here */
+.resume-preview {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.resume-preview h1, .resume-preview h2, .resume-preview h3 {
+  color: #333;
+}
+
+.resume-preview .section {
+  margin-bottom: 20px;
+}
+
+.resume-preview .section-title {
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+.resume-preview ul {
+  padding-left: 20px;
+}
